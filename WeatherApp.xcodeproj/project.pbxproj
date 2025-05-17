@@ -256,6 +256,8 @@
 				DEVELOPMENT_TEAM = 5U46FZG5K9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Konumunuz Hava durumu için kullanılacaktır";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Konumunuz hava durumu için kullanılacaktır";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +286,8 @@
 				DEVELOPMENT_TEAM = 5U46FZG5K9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Konumunuz Hava durumu için kullanılacaktır";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Konumunuz hava durumu için kullanılacaktır";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
